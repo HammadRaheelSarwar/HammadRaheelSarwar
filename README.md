@@ -3,6 +3,7 @@ I’m a motivated Computer Science student and aspiring software developer with 
 
 
 ## 🌐 Socials:
+### Portfolio
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hammad_raheel_sarwar1?igsh=MWhrdm0wcnVicDZldQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/hammad-raheel-sarwar-884745317) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ProfitSparks1) 
 
 # 💻 Tech Stack:
